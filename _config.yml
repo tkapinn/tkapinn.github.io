@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tkapinn.github.io
+title: The Soap Box
+tagline: A place for all the soap-box-worthy moments in my life
+description: I hate describing things.  I write my thoughts here in hopes that when the aliens come, someone will care enough to read them.
+paginate: 5
